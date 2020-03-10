@@ -13,3 +13,6 @@ The list will update aperiodicity.
 
 未经允许的作者使用时需要注释标明原作者
 If you're not in the developer list,you must commit the master of "tools.json" in your project.
+
+在微信上联系枫叶1003（labixiaoxinyu888）以获取使用许可！
+Talk with fengye1003(labixiaoxinyu888) on wechat and be a developer of this project!
