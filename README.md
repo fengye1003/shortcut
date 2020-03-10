@@ -11,3 +11,5 @@ GitHub：https://fengye1003.github.io/shortcut/tools.json
 Gitee：https://fengye1003.gitee.io/shortcut/tools.json
 use "get" command and you can get the tools list and url of tools.
 json number
+这个项目给我们的开发者使用，详细见“list.txt”文件
+This project is for our developers.You can view them in "list.txt"
