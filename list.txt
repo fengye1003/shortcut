@@ -1,0 +1,18 @@
+本项目授权以下开发者使用：
+1.枫叶1003（作者）
+2.蚂蚁捷径
+3.IT Man
+
+This project for these developers:
+1.fengye1003(master)
+2.AntCuts
+3.IT Man
+
+资源会不定期更新
+The list will update aperiodicity.
+
+未经允许的作者使用时需要注释标明原作者
+If you're not in the developer list,you must commit the master of "tools.json" in your project.
+
+在微信上联系枫叶1003（labixiaoxinyu888）以获取使用许可！
+Talk with fengye1003(labixiaoxinyu888) on wechat and be a developer of this project!
