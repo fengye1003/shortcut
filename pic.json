@@ -1,5 +1,9 @@
 [
 "本地文件\nLoaclPictures",
 "摄影时代api\nhttps://source.unsplash.com/random",
-"自然风景系\nhttps://api.r10086.com/%E9%A3%8E%E6%99%AF%E7%B3%BB%E5%88%976.php"
+"自然风景系\nhttps://api.r10086.com/%E9%A3%8E%E6%99%AF%E7%B3%BB%E5%88%976.php",
+"搏天API·随机\nhttps://api.btstu.cn/sjbz/api.php",
+"搏天API·动漫\nhttps://api.btstu.cn/sjbz/api.php?lx=dongman&format=images",
+"搏天API·风景\nhttps://api.btstu.cn/sjbz/api.php?lx=fengjing&format=images",
+"搏天API·美女\nhttps://api.btstu.cn/sjbz/api.php?lx=meizi&format=images"
 ]
